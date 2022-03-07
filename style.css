@@ -2,7 +2,7 @@ body {
     background-color: rgb(44, 41, 38);
 }
 .card {
-    width: 700px;
+    width: 400px;
     background-color: rgba(223, 165, 56, 0.664);
     margin: 30px auto;
     box-shadow: 5px 5px 10px rgb(80, 76, 76);
